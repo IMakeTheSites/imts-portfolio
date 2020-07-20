@@ -1,0 +1,14 @@
+{
+  "name": "imts",
+  "version": "1.0.0",
+  "description": "I Make the Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Mark Wlodawski",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
